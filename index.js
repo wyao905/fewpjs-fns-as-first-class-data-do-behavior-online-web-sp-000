@@ -13,6 +13,6 @@ function greet(timeString){
   let timeArray = timeString.split(":");
   let timeI = parseInt(timeArray[0]);
   if(timeI < 12){
-    return
-  }
+    return "Good Morning"
+  } else if ()
 }
