@@ -20,3 +20,7 @@ function greet (timeString) {
     return "Good Evening";
   }
 }
+
+function displayMessage(str) {
+  
+}
