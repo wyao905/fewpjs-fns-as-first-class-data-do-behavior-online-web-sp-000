@@ -22,4 +22,5 @@ function greet (timeString) {
 }
 
 function displayMessage(str) {
+  let document.getElementById("greeting").innerText = str
 }
