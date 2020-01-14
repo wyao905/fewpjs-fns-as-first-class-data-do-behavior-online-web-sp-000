@@ -12,5 +12,7 @@ function handleClick(e) {
 function greet(timeString){
   let timeArray = timeString.split(":");
   let timeI = parseInt(timeArray[0]);
-  if()
+  if(timeI < 12){
+    return
+  }
 }
